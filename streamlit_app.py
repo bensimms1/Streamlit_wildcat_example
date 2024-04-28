@@ -104,7 +104,7 @@ IMAGE_TYPES = ["png", "jpg"]
 
 EXTERNAL_DEPENDENCIES = {
     "model_1_wildcat.pkl": {
-        "url": "https://www.dropbox.com/scl/fi/o24f87s4kk3uv0el3vrg8/model_1_wildcat.pkl?rlkey=qc1qo7h67o5chdmp4vfppxd4d&st=5g65uwcn&dl=0",
+        "url": "https://www.dropbox.com/scl/fi/o24f87s4kk3uv0el3vrg8/model_1_wildcat.pkl?rlkey=qc1qo7h67o5chdmp4vfppxd4d&st=5g65uwcn&dl=1",
         "size": 170930000
     }
 }
