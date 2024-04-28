@@ -56,7 +56,7 @@ def load_model():
     plt = platform.system()
 
     if plt == 'Linux' or plt == 'Darwin': pathlib.WindowsPath = pathlib.PosixPath
-    inf_model = load_learner('model_1_wilcat.pkl', cpu=True)
+    inf_model = load_learner('model_1_wildcat.pkl', cpu=True)
 
     return inf_model
 
