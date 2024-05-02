@@ -9,7 +9,6 @@ from PIL import ImageOps
 
 def main():
     st.title('CWS Course Wildcat classifier')
-    model = load_model()  # Ensure model is loaded
     
     st.markdown("Upload a Scottish wildcat photo for classification.")
     image = st.file_uploader("", type=["png", "jpg"])
